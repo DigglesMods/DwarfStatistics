@@ -1,0 +1,18 @@
+{
+	"version" : "1.0",
+	"author" : "zed2000",
+	
+	"name" :  {
+		"en" : "DwarfStatistics",
+		"de" : "Zwergenstatistik"
+	},
+	"description" : {
+		"en" : "This mod changes the GUI of the dwarf menu.",
+		"de" : "Diese Mod ändert die GUI im Menü \"Zwerge\"."
+	},
+	
+	"links" : {
+		"download" : "https://github.com/DigglesMods/DwarfStatistics/releases",
+		"wiki" : "https://github.com/DigglesMods/DwarfStatistics/wiki"
+	}
+}
