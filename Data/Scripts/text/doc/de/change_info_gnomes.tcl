@@ -236,8 +236,6 @@ proc gnomeinfo_inventory {gid} {
 	layout print "/(ta10)[gnomename $gid]"
 	layout print "/(fn0)/(ta80)/(bo-10)"
 	set olst [inv_list $gid]
-	set x 90
-	set cnt 0
 
 $put
 	set lineCnt 0
